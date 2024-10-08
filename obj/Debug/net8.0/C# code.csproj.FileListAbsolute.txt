@@ -12,3 +12,4 @@ E:\C# code\obj\Debug\net8.0\refint\C# code.dll
 E:\C# code\obj\Debug\net8.0\C# code.pdb
 E:\C# code\obj\Debug\net8.0\C# code.genruntimeconfig.cache
 E:\C# code\obj\Debug\net8.0\ref\C# code.dll
+E:\C# code\obj\Debug\net8.0\C# code.sourcelink.json
